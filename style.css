@@ -1,0 +1,21 @@
+.stred{
+    width: 500px;
+    text-align: justify;
+    margin: auto;
+}
+
+.warning{
+    color: red;
+}
+
+.success{
+    width: 300px;
+    color: #00FF00;
+    background: #000000;
+}
+#myID{
+    color: blue;
+}
+div {
+    font-size: 20px;
+}
